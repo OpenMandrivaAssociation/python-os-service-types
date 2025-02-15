@@ -6,7 +6,7 @@ Summary:	Python library for consuming OpenStack sevice-types-authority data
 URL:		https://pypi.org/project/os-service-types/
 License:	GPL
 Group:		Development/Python
-BuildRequires:	python
+BuildRequires:	python%{pyver}dist(pbr)
 BuildSystem:	python
 BuildArch:	noarch
 
