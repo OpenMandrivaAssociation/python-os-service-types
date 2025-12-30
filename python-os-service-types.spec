@@ -1,7 +1,7 @@
 Name:		python-os-service-types
-Version:	1.7.0
-Release:	3
-Source0:	https://files.pythonhosted.org/packages/source/o/os-service-types/os-service-types-%{version}.tar.gz
+Version:	1.8.2
+Release:	1
+Source0:	https://files.pythonhosted.org/packages/source/o/os_service_types/os_service_types-%{version}.tar.gz
 Summary:	Python library for consuming OpenStack sevice-types-authority data
 URL:		https://pypi.org/project/os-service-types/
 License:	GPL
